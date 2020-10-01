@@ -1,7 +1,7 @@
 # AI Cheatsheets
 
 Essential Cheat Sheets for deep learning and machine learning engineers
-
+more cheatsheets upload
 Website: https://aicheatsheets.com
 
 <p align="center">
